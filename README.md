@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DaguJay
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm Dagim Jida
+- 👀 I’m a frontend web developer, exploring web 3
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on anything web 3 releated 
 
 
 <!---
